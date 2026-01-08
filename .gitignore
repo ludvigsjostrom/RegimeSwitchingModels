@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!dev_RegimeSwitchingModels.ipynb
+!dev_RegimeSwitchingModels.py
+
